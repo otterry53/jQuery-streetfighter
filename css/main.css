@@ -9,7 +9,10 @@
 body {
     background-color: black;
 }
-
+@fontace {
+    font-family: 'SF_CartoonistHand';
+    src: url('../fonts/Cartoonist_Hand.ttf');
+}
                   
 
 /* Header styles (all the styles inside the < header > or < nav > tags)*/
@@ -40,7 +43,7 @@ body {
 p {
     display: block;
     color: black;
-    font-family: 'SF-Cartoonist-Hand', 'sans-serif';
+    font-family: 'Coming Soon', 'sans-serif';
     width: 50%;
     font-size: 24px;
     line-height: 45px;
